@@ -52,7 +52,7 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
+[This flower](/images/flower.jpg)
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
