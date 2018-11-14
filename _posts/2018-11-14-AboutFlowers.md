@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Flowers
+title: More about Flowers
 ---
 
 ![New flower picture](/images/new flower.jpg)
 
 This is about flowers 
 
-More info [here](http://grownative.org/native-plant-info/plant-picker/).
+More info [here]().
