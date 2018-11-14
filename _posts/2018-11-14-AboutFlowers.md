@@ -4,6 +4,7 @@ title: More about Flowers
 ---
 
 ![New flower picture](/images/that.jpg)
+this flower has an amazing design.
 
 This is about flowers 
 
