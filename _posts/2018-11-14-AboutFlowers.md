@@ -3,7 +3,7 @@ layout: post
 title: Flowers
 ---
 
-![New flower picture](/images/ne flower.jpg)
+![New flower picture](/images/new flower.jpg)
 
 This is about flowers 
 
