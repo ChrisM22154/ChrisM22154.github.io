@@ -4,7 +4,7 @@ Layout: post
 Title: flowers
 ---
 
-[Flowers1](/images/flower1.jpg)
+[Flowers1](/images/Flower1.jpg)
 
 ## 3 things about flowers 
 
