@@ -1,8 +1,6 @@
 
----
 Layout: post
 Title: flowers
----
 
 ![Flowers1](/images/Flower1.jpg)
 
